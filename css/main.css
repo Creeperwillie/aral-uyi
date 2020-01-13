@@ -1,0 +1,53 @@
+  
+  a:hover {
+  background-color: #111111;
+}
+ 
+a {
+  text-decoration:none;
+}
+li.menu {
+  float: left;
+  font-size: 22px;
+
+  display: block;
+  
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-weight: 920;
+}
+
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0C0002;
+}
+a.menu {
+  float: left;
+  font-size: 22px;
+
+  display: block;
+ 
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-weight: 920;
+}
+a:hover {
+  background-color: #111111;
+}
+  a:visited { 
+    color: purple; 
+  }
+  
+  a:active {
+  color:#2f548f;
+}
+hr {
+  height:2px;
+  background-color:black;
+}
